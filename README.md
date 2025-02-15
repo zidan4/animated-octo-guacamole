@@ -1,3 +1,5 @@
 # animated-octo-guacamole
 
-a simple game
+a simple game.
+
+Assymbly code
